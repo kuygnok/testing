@@ -1,3 +1,7 @@
 สวัสดี
 yyyy
+<<<<<<< HEAD
 กูไม่เพิ่มมึงจะทำไม
+=======
+uuuuureter
+>>>>>>> bcee1a77803f9f0dfd485d9c63fe1e6a7dfe163f
